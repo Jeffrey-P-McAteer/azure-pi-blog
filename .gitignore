@@ -1,0 +1,12 @@
+target
+out
+bin
+obj
+__pycache__
+mnt
+*.tar
+*.tar.gz
+*.tar.xz
+*.tar.bz
+
+
